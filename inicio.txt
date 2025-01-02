@@ -1,1 +1,5 @@
 "Inicio de proyecto" 
+
+
+Edicion del archivo de inicio por un print
+	print("Hola mundo")
