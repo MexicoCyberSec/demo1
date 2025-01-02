@@ -7,3 +7,5 @@ for num in range(1..10):
 
 while x<10:
 	print("Codificamos el nuevo while")
+
+print("Hola mundo")
