@@ -1,0 +1,4 @@
+"Iniciando desarrollo del proyecto" 
+
+para el comienzo realizar un status del analisis del 
+desarrollo del proyecto
